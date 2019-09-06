@@ -19,3 +19,6 @@ You do the lab by cloning this repository. Make your changes by editing
 the named config file and adding zone files. Commit your changes to
 your local repository, and make sure to push the local repository
 to the remote repository on KTH GitHub.
+
+When you are done with the lab, make a submission in the Canvas
+assignment for the DNS lab to let the teachers know that you are finished.
