@@ -11,9 +11,9 @@ files are included:
    create a new zone file, make a copy of this file, and edit the copy.
 * **db.root** A zone file with all the root servers. This file is
 essential for your name server to work correctly. Do not touch it.
-    * **report.txt** A template for the lab report. Submit your answers
-      to the written questions in part 2 by filling in this file. The
-      file is in plain text format (UTF-8). 
+* **report.txt** A template for the lab report. Submit your answers
+ to the written questions in part 2 by filling in this file. The
+  file is in plain text format (UTF-8). 
 
 Lab Submission
 ==========
