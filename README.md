@@ -19,7 +19,8 @@ Lab Submission
 ==========
 
 You do the lab by cloning this repository. Make your changes by editing
-the named config file and adding zone files. Commit your changes to
+the named config file, adding zone files, and writing answers to the
+questions from the lab instructions. Commit your changes to
 your local repository, and make sure to push the local repository
 to the remote repository on KTH GitHub.
 
