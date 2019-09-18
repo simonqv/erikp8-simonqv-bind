@@ -13,7 +13,8 @@ files are included:
 essential for your name server to work correctly. Do not touch it.
 * **report.txt** A template for the lab report. Submit your answers
  to the written questions in part 2 by filling in this file. The
-  file is in plain text format (UTF-8). 
+ file is in plain text format (UTF-8).
+* **README.md** This file (Markdown format).
 
 Lab Submission
 ==========
