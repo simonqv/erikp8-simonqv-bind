@@ -1,0 +1,45 @@
+INSTRUCTIONS
+------------
+Fill in the information below and submit this file together with your
+name server configuration files.
+
+Do not remove any parts of the existing text. Leave it as it is, and
+just fill in information about your group, and answers to the questions. 
+
+GROUP INFORMATION
+-----------------
+
+Group number: 
+Student name 1:
+Student name 2:
+
+SOLUTIONS TO PART 2 "Server configuration"
+------------------------------------
+
+* Section 8. Create your own zone
+
+Question 8.1:
+
+Question 8.2:
+
+Question 8.3:
+
+* Section 9. Subzones and delgations
+
+Question 9.1:
+
+Question 9.2:
+
+Question 9.3:
+
+Question 9.4:
+
+Question 9.5:
+
+* Section 10. Replication - masters and slaves
+
+Question 10.1:
+
+Question 10.2:
+
+Question 10.3:
