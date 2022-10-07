@@ -9,9 +9,9 @@ just fill in information about your group, and answers to the questions.
 GROUP INFORMATION
 -----------------
 
-Group number: 
-Student name 1:
-Student name 2:
+Group number: 69
+Student name 1: Erik Persson
+Student name 2: Simon Larspers Qvist
 
 SOLUTIONS TO PART 2 "Server configuration"
 ------------------------------------
@@ -19,10 +19,20 @@ SOLUTIONS TO PART 2 "Server configuration"
 * Section 8. Create your own zone
 
 Question 8.1:
+zone "group69.ik2218.ssvl.kth.se." { type master; file "/home/tc/bind/my-zone-db.root";}; 
+
+We chose master because it seemed to be the only reasonable one given the documentation.
 
 Question 8.2:
+dig +trace group69.ik2218.ssvl.kth.se 
+Check one at a time (not the best...): 	
+dig se
+dig kth.se
+dig ssvl.kth.se 	etc.
+
 
 Question 8.3:
+dig axfr @ik2218.ssvl.kth.se ik2218.ssvl.kth.se
 
 * Section 9. Subzones and delgations
 
