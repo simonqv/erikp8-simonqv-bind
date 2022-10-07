@@ -9,7 +9,7 @@ just fill in information about your group, and answers to the questions.
 GROUP INFORMATION
 -----------------
 
-Group number: 
+Group number: 69
 Student name 1: Erik Persson
 Student name 2: Simon Larspers Qvist
 
