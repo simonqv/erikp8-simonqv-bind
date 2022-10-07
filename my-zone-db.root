@@ -6,11 +6,13 @@
 $TTL	120
 $ORIGIN group69.ik2218.ssvl.kth.se.
 @	IN	SOA	ns.group69.ik2218.ssvl.kth.se. root.group69.ik2218.ssvl.kth.se. (
-			      5		; Serial
+			      7		; Serial
       			     10		; Refresh
  			  86400		; Retry
   			2419200		; Expire
 			  86400 )	; Negative Cache TTL
 ;
 @	IN	NS	ns.group69.ik2218.ssvl.kth.se.
+@	IN	NS	ns2.group69.ik2218.ssvl.kth.se.
 ns	IN	A	192.16.127.69
+ns2	IN	A	192.16.125.106
