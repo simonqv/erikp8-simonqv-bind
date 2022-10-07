@@ -26,9 +26,9 @@ We chose master because it seemed to be the only reasonable one given the instru
 Question 8.2:
 dig +trace group69.ik2218.ssvl.kth.se 
 Check one at a time (not the best...): 	
-                    dig se
-									  dig kth.se
-										dig ssvl.kth.se 	etc.
+dig se
+dig kth.se
+dig ssvl.kth.se 	etc.
 
 
 Question 8.3:
