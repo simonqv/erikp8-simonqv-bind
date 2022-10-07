@@ -6,7 +6,7 @@
 $TTL	120
 $ORIGIN sub.group69.ik2218.ssvl.kth.se.
 @	IN	SOA	ns.sub.group69.ik2218.ssvl.kth.se. root.sub.group69.ik2218.ssvl.kth.se. (
-			      4		; Serial
+			      5		; Serial
       			     10		; Refresh
  			  86400		; Retry
   			2419200		; Expire
