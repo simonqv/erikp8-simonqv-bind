@@ -21,7 +21,7 @@ SOLUTIONS TO PART 2 "Server configuration"
 Question 8.1:
 zone "group69.ik2218.ssvl.kth.se." { type master; file "/home/tc/bind/my-zone-db.root";}; 
 
-We chose master because it seemed to be the only reasonable one given the instructions.
+We chose master because it seemed to be the only reasonable one given the documentation.
 
 Question 8.2:
 dig +trace group69.ik2218.ssvl.kth.se 
