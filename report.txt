@@ -25,6 +25,7 @@ We chose master because it seemed to be the only reasonable one given the docume
 
 Question 8.2:
 dig +trace group69.ik2218.ssvl.kth.se 
+dig -x 192.16.127.69
 Check one at a time (not the best...): 	
 dig se
 dig kth.se
@@ -37,14 +38,20 @@ dig axfr @ik2218.ssvl.kth.se ik2218.ssvl.kth.se
 * Section 9. Subzones and delgations
 
 Question 9.1:
+dig TXT +trace sub.group69.ik2218.ssvl.kth.se
 
 Question 9.2:
+Glue records are additional A records that allow DNS client to locate name servers. Glue records break cycles when cyclic dependencies appear.
 
 Question 9.3:
+us.america.group69: 1.2.3.4
+brazil.america.group69: 9.10.11.12
 
 Question 9.4:
+"Maple syrup!"
 
 Question 9.5:
+Prints out a trace of name servers it traverses. It goes from theCompany to our name server.
 
 * Section 10. Replication - masters and slaves
 
