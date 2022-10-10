@@ -56,7 +56,14 @@ Prints out a trace of name servers it traverses. It goes from theCompany to our 
 * Section 10. Replication - masters and slaves
 
 Question 10.1:
+dig @ns2.group69.ik2218.ssvl.kth.se us.america.group69.ik2218.ssvl.kth.se
 
 Question 10.2:
+dig @ns.group69.ik2218.ssvl.kth.se china.greenworld69.ik2218.ssvl.kth.se
+china.greenworld69.ik2218.ssvl.kth.se. 60 IN A	55.56.57.58
+
+dig @ns.group69.ik2218.ssvl.kth.se russia.greenworld69.ik2218.ssvl.kth.se
+russia.greenworld69.ik2218.ssvl.kth.se.	60 IN A	99.98.97.96
 
 Question 10.3:
+"Plant more trees!"
